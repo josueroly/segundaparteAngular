@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "holas"
+    }
+  },
+  "defaultProject": "holas",
+  "cli": {
+    "analytics": "e763cf81-e164-4f60-8b5c-2adcd35fbd8b"
+  }
 }
